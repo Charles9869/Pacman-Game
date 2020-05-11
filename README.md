@@ -7,7 +7,7 @@ Simple pacman game designed in C++
 - C++
 
 ```
-git clone https://github.com/Charles9869/Pacman-Game.git
+$ git clone https://github.com/Charles9869/Pacman-Game.git
 ```
 
 # SCREENSHOTS
